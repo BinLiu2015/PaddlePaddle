@@ -442,7 +442,7 @@ class CSPResNet(nn.Layer):
     #   print("len(outs):",len(outs))
    #    print(outs[0].detach().cpu()[0,0:1,:,:].numpy().transpose(1,2,0).shape)
     #   plt.imshow(outs[-1].detach().cpu()[0,0:1,:,:].numpy().transpose(1,2,0))
-     #  plt.savefig("/home/yaozhuohan/bxy/PaddleDetection_YOLOSeries/ppdet/modeling/test1.jpg")
+     #  plt.savefig("/modeling/test1.jpg")
         return outs
 
     @property
