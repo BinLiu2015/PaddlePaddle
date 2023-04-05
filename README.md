@@ -1,0 +1,2 @@
+# PaddlePaddle
+基于PaddlePaddle的复杂背景下苹果叶片病虫害检测模型
