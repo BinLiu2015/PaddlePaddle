@@ -1,6 +1,0 @@
-AlternariaSpot
-Aphid
-Mosaic
-PowderyMildew
-Rust
-BrownSpot
