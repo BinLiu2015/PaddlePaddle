@@ -1,0 +1,4 @@
+ninja: Entering directory `D:\Desktop\Workspace\Android\yolo_detection_demo\app\.cxx\cmake\debug\arm64-v8a'
+[1/3] Building CXX object CMakeFiles/Native.dir/Native.cc.o
+[2/3] Building CXX object CMakeFiles/Native.dir/Pipeline.cc.o
+[3/3] Linking CXX shared library D:\Desktop\Workspace\Android\yolo_detection_demo\app\build\intermediates\cmake\debug\obj\arm64-v8a\libNative.so

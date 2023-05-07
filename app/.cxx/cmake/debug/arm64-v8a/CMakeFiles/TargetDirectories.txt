@@ -1,0 +1,3 @@
+D:/Desktop/Workspace/Android/yolo_detection_demo/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/Native.dir
+D:/Desktop/Workspace/Android/yolo_detection_demo/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/Desktop/Workspace/Android/yolo_detection_demo/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,11 @@
+# ninja log v5
+3	2203	700765324	CMakeFiles/Native.dir/Utils.cc.o	1eb2330ef761867e
+22	3155	700765325	CMakeFiles/Native.dir/Native.cc.o	ee67ae56cb72344
+13	3662	700765326	CMakeFiles/Native.dir/Pipeline.cc.o	6887eb49da1544f8
+3662	5011	700765327	D:/Desktop/Workspace/Android/yolo_detection_demo/app/build/intermediates/cmake/debug/obj/arm64-v8a/libNative.so	ef64f143a430afb0
+11	2575	700765487	CMakeFiles/Native.dir/Pipeline.cc.o	6887eb49da1544f8
+2575	3790	700765489	D:/Desktop/Workspace/Android/yolo_detection_demo/app/build/intermediates/cmake/debug/obj/arm64-v8a/libNative.so	ef64f143a430afb0
+30	3271	705178461	CMakeFiles/Native.dir/Native.cc.o	ee67ae56cb72344
+44	3859	705178462	CMakeFiles/Native.dir/Pipeline.cc.o	6887eb49da1544f8
+3860	6719	705178465	D:/Desktop/Workspace/Android/yolo_detection_demo/app/build/intermediates/cmake/debug/obj/arm64-v8a/libNative.so	ef64f143a430afb0
+1	16	0	clean	4892ed8d8ea29cbc

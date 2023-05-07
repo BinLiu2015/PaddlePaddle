@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">YOLO Detection</string>
+    <string name="CHOOSE_PRE_INSTALLED_MODEL_KEY">CHOOSE_INSTALLED_MODEL_KEY</string>
+    <string name="MODEL_DIR_KEY">MODEL_DIR_KEY</string>
+    <string name="LABEL_PATH_KEY">LABEL_PATH_KEY</string>
+    <string name="CPU_THREAD_NUM_KEY">CPU_THREAD_NUM_KEY</string>
+    <string name="CPU_POWER_MODE_KEY">CPU_POWER_MODE_KEY</string>
+    <string name="INPUT_WIDTH_KEY">INPUT_WIDTH_KEY</string>
+    <string name="INPUT_HEIGHT_KEY">INPUT_HEIGHT_KEY</string>
+    <string name="INPUT_MEAN_KEY">INPUT_MEAN_KEY</string>
+    <string name="INPUT_STD_KEY">INPUT_STD_KEY</string>
+    <string name="SCORE_THRESHOLD_KEY">SCORE_THRESHOLD_KEY</string>
+    <string name="MODEL_DIR_DEFAULT">models/yolov3_mobilenet_v3_for_cpu</string>
+    <string name="LABEL_PATH_DEFAULT">labels/coco-labels-2014_2017.txt</string>
+    <string name="CPU_THREAD_NUM_DEFAULT">1</string>
+    <string name="CPU_POWER_MODE_DEFAULT">LITE_POWER_HIGH</string>
+    <string name="INPUT_WIDTH_DEFAULT">320</string>
+    <string name="INPUT_HEIGHT_DEFAULT">320</string>
+    <string name="INPUT_MEAN_DEFAULT">0.485,0.456,0.406</string>
+    <string name="INPUT_STD_DEFAULT">0.229,0.224,0.225</string>
+    <string name="SCORE_THRESHOLD_DEFAULT">0.2</string>
+
+    <string name="intro_Aphid">以若蚜、成蚜群集于寄主嫩梢、嫩叶背面及幼果表面刺吸为害，受害叶片常呈现褪绿斑点，后向背面横向卷曲或卷缩，叶尖向叶背横卷。群体密度大时，常有蚂蚁与其共生。</string>
+
+    <string name="intro_brown">褐斑病在叶片上主要有针芒型、同心轮纹型和混合型3种。针芒型：病斑呈针芒放射形向外扩展，斑点小且多，形状不固定，病斑上有很多隆起的小黑点，后期叶片渐黄，病部周围及背部仍保持绿色同心轮纹型：发病初期叶面出现黄褐色小点，逐渐扩大为圆形，中心黑褐色，周围黄色，病斑周围有绿色晕圈，直径1-2.5厘米，病斑中心出现轮纹状黑色小点，病斑背部中央深褐色，四周浅褐色，无明显边缘混合型：病斑暗褐色，较大。近圆形或数个不规则病斑连接在一起形成不规则形，直径0.3-3厘米，其上散生黑色小点，但轮纹状不明显，后期病叶变黄，病斑边缘仍保持绿色，时间长了病斑中间呈灰白色。</string>
+
+    <string name="intro_rust">叶片初患病正面出现油亮的橘红色小斑点，逐渐扩大，形成圆形橙黄色的病斑，边缘红色。发病严重时，一张叶片出现几十个病斑。发病1-2周后，病斑表面密生鲜黄色细小点粒。</string>
+
+    <string name="intro_alternaria">若病斑边缘颜色较深，病斑内有深浅相间的同心轮纹，可以确诊为斑点落叶病；苹果树斑点落叶病主要危害展叶20天内的嫩叶，表现为新梢的嫩叶上产生褐色至深褐色圆形斑，随着气温升高，病斑扩大，有时成为不规则形状。空气潮湿时，病斑背面产生黑绿色至暗黑色霉状物。严重时，影响叶片正常生长，常造成叶片扭曲和皱缩，病部焦枯。</string>
+
+    <string name="intro_mosaic">主要在叶片上形成各种类型的鲜黄色病斑，症状变化很大，一般可分为三种类型。重花叶型：夏初叶片上出现鲜黄色后变为白色的大型褪绿斑区。轻花叶型：只有少数叶片出现少量黄色斑点。沿脉变色型：沿脉失绿黄化，形成一个黄色网纹，叶脉之间多小黄斑，而大型褪绿斑区较少。此外，有些株系产生线纹或环斑症状。</string>
+
+    <string name="intro_gray">初期为圆形或近圆形病斑，直径为2-6毫米，边缘清晰，红褐色，后期变为灰色，中央散生小黑点。病叶不变黄脱落，严重时出现焦枯现象。</string>
+
+</resources>
+
